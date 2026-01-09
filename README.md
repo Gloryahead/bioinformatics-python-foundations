@@ -15,3 +15,7 @@ bioinformatics workflows.
 **Usage:**
 ```bash
 python src/day01_hello_cli/main.py --name Michael
+
+
+## Day 02 – Input Validation
+**Focus:** Safe user input and defensive programming.

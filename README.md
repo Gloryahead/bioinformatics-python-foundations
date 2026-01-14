@@ -47,3 +47,10 @@ python src/day03_file_io/notes.py
 python src/day04_data_structures/flashcards.py
 ```
 
+## Day 05 – Text Processing
+**Focus:** Counting and summarizing unstructured text data.
+
+**Usage:**
+```bash
+python src/day05_text_processing/analyze_text.py
+```

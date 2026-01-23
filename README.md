@@ -54,3 +54,17 @@ python src/day04_data_structures/flashcards.py
 ```bash
 python src/day05_text_processing/analyze_text.py
 ```
+
+## Day 06 – Refactoring
+**Focus:** Separation of concerns and modular code structure.
+
+**Skills demonstrated:**
+- refactoring without changing behavior
+- separating I/O from business logic
+- organizing code into reusable modules
+- clean imports and explicit responsibilities
+
+**Usage:**
+```bash
+python src/day06_refactoring/main.py
+```

@@ -53,7 +53,7 @@ def count_words(text: str) -> int:
         cleaned = word.strip(punctuation).lower()
         if cleaned:
             frequency[cleaned] = frequency.get(
-                cleaned, 0/home/michael/Python/sample.tx) + 1
+                cleaned, 0) + 1
     # Sum of frequencies equals the number of recognized words.
     return sum(frequency.values())
 

@@ -68,3 +68,21 @@ python src/day05_text_processing/analyze_text.py
 ```bash
 python src/day06_refactoring/main.py
 ```
+
+## Day 07 – Command-Line Interfaces
+**Focus:** Professional CLI design using argparse.
+
+**Skills demonstrated:**
+- argparse flags and required arguments
+- boolean options with `store_true`
+- safe file-path handling with `pathlib.Path`
+- default behaviors and clean CLI UX
+
+**Usage:**
+```bash
+python src/day07_cli/main.py --file sample.txt
+python src/day07_cli/main.py -f sample.txt --words
+python src/day07_cli/main.py -f sample.txt --lines --common
+```
+
+

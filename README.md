@@ -85,4 +85,10 @@ python src/day07_cli/main.py -f sample.txt --words
 python src/day07_cli/main.py -f sample.txt --lines --common
 ```
 
+## Day 08 – Testing
+**Focus:** Unit testing core logic with unittest.
+
+```bash
+python -m unittest discover -s src/day08_testing -p "test_*.py"
+```
 
